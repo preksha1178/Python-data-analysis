@@ -1,0 +1,6 @@
+OrderID,Customer,Product,Category,Price,Quantity
+101,Aman,Headphones,Electronics,1500,2
+102,Riya,Tshirt,Clothing,700,1
+103,Karan,Laptop,Electronics,55000,1
+104,Neha,Shoes,Footwear,2000,1
+105,Arjun,Mobile,Electronics,25000,1
